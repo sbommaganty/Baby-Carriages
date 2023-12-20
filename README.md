@@ -1,7 +1,7 @@
 ## 
 Welcome to the Baby carriages Website!
  
-**Link to the website** : 
+**Link to the website** : https://lcf2302.github.io/
 
 ## Getting Started 🎧
 
