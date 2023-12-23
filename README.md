@@ -1,6 +1,5 @@
-## 
-Welcome to the Baby carriages Website!
- 
+## Welcome to the Baby carriages Website 👼
+
 **Link to the website** : https://main.d1bcys90etygzq.amplifyapp.com/
 
 ## Getting Started 🎧
